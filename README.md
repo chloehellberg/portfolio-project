@@ -1,4 +1,4 @@
-# _Portfolio Project_
+# _Personal Portfolio_
 
 #### _Authored by Chloe Hellberg, 6.14.2020_
 
