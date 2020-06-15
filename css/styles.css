@@ -2,3 +2,7 @@ img {
   width: 300px;
   float: right;
 }
+
+body {
+  font-family: "verdana";
+}
