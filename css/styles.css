@@ -9,6 +9,7 @@ body {
   font-family: "verdana";
   background-color: purple;
   margin: 12px;
+  color: black;
 }
 
 .vl {
@@ -19,7 +20,6 @@ body {
   margin-left: -20px;
   top: 2;
 }
-
 
 .highlight {
   background-color: #DDA0DD;
@@ -41,6 +41,21 @@ body {
   padding: 4px;
 }
 
-@media screen and (max-width: 768px) {
+.important a {
+  font-weight: bold;
+  font-style: oblique;
+}
 
+.grouping-2 {
+  background-color: #DDA0DD;
+  margin: 8px;
+  border: 2px;
+  padding: 4px;
+}
+
+.grouping-1 {
+  background-color: #DDA0DD;
+  margin: 8px;
+  border: 2px;
+  padding: 4px;
 }
