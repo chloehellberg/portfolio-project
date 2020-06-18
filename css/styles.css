@@ -2,11 +2,13 @@ img {
   width: 300px;
   float: right;
   border: 5px solid black;
+  margin: 12px;
 }
 
 body {
   font-family: "verdana";
   background-color: purple;
+  margin: 12px;
 }
 
 .vl {
@@ -32,7 +34,12 @@ body {
   
 }
 
-
+.important {
+  background-color: #DDA0DD;
+  margin: 8px;
+  border: 2px;
+  padding: 4px;
+}
 
 @media screen and (max-width: 768px) {
 
