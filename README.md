@@ -10,6 +10,9 @@ _This is a portfolio that includes information about my background and current p
 ## Setup/Installation Requirements
 * _Currently no setup required. Please visit my webpage and contact me with any questions you may have._
 
+## Link to Site on GitHub Pages
+https://chloehellberg.github.io/portfolio-project
+
 
 ## Known Bugs
 * _Currently no known bugs_
