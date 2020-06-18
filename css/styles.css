@@ -1,8 +1,39 @@
 img {
   width: 300px;
   float: right;
+  border: 5px solid black;
 }
 
 body {
   font-family: "verdana";
+  background-color: purple;
+}
+
+.vl {
+  border-left: 20px solid black;
+  height: 900px;
+  position: absolute;
+  left: 2%;
+  margin-left: -20px;
+  top: 2;
+}
+
+
+.highlight {
+  background-color: #DDA0DD;
+}
+
+.floating-box {
+  background-color: lightgray;
+  float: right;
+  margin: 12px;
+  border: 5px solid black;
+  padding: 15px;
+  
+}
+
+
+
+@media screen and (max-width: 768px) {
+
 }
